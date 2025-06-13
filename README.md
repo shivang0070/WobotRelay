@@ -131,9 +131,6 @@ We welcome contributions to the project! Please follow these guidelines when con
 3. Ensure that your code follows the project's coding standards.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact Information
 
